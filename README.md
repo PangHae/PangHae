@@ -19,9 +19,10 @@ Here are some ideas to get you started:
   <p>Konkuk University, Department of Computer Science & Engineering, Seoul, Republic of Korea</p>
   <p>AgileSoDA, Front-End Developer</p>
   
+  <!-- 
   ### 🌱 I’m currently studying ...
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black"/>
-
+  -->
   
   ### 🔭 Projects
   | 기간                | 프로젝트명 | 프로젝트 소개     |                                                             
