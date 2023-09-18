@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ## I'm PangHae👋
+ <!-- ## I'm PangHae👋 -->
   
   <p>From Republic of Korea 🇰🇷</p>
   <!-- <p>Konkuk University, Department of Computer Science & Engineering, Seoul, Republic of Korea</p> -->
