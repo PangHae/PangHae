@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <p>From Republic of Korea 🇰🇷</p>
   <!-- <p>Konkuk University, Department of Computer Science & Engineering, Seoul, Republic of Korea</p> -->
   <p>AgileSoDA, Front-End Developer(2022.07 ~ 2024.04)</p>
-  <p>Tmax CoreAI, Front-End Developer(2024.04 ~ )</p>
+  <p>Tmax CoreAI, Front-End Developer(2024.04 ~ 2024.10)</p>
   
   <!-- 
   ### 🌱 I’m currently studying ...
