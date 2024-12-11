@@ -25,10 +25,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black"/>
   -->
   
-  ### 🔭 Projects
+  <!-- ### 🔭 Projects
   | 기간                | 프로젝트명 | 프로젝트 소개     |                                                             
 | ------------------- | ---------- | ----------------- |
-| 22.10.10 ~ 22.11.23 | Sketch-Brain      | 인공지능 교육 플랫폼 |
+| 22.10.10 ~ 22.11.23 | Sketch-Brain      | 인공지능 교육 플랫폼 | -->
 
 <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PangHae&layout=compact&theme=tokyonight">
